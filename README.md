@@ -1,0 +1,2 @@
+# wizadstudy
+Django framework project
